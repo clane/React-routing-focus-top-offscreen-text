@@ -127,7 +127,7 @@ class App extends Component {
           <html lang="en" />
           <meta charSet="utf-8" />
           <title>
-            React Routing When Components Load - Moving Focus to The Top
+            React Routing When Components Load - Moving Focus to Offscreen Text at The Top
           </title>
         </Helmet>
 
@@ -142,13 +142,13 @@ class App extends Component {
           Top Element
         </div>
 
-        <h1>React - moving focus to the top after routing</h1>
+        <h1>React Routing When Components Load - Moving Focus to Offscreen Text at The Top</h1>
 
         <ul>
           <li>
             <span>Github URL:&nbsp;</span>
-            <a href="https://github.com/clane/React-routing-focus-top">
-              {" "}https://github.com/clane/React-routing-focus-top
+            <a href="https://github.com/clane/React-routing-focus-top-offscreen-text">
+              {" "}https://github.com/clane/React-routing-focus-top-offscreen-text
             </a>
           </li>
           <li>
