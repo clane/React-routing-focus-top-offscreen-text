@@ -142,7 +142,7 @@ class App extends Component {
           Top Element
         </div>
 
-        <h1>React Routing When Components Load - Moving Focus to Offscreen Text at The Top</h1>
+        <h1>React - Moving focus to offscreen text at the top when routing</h1>
 
         <ul>
           <li>
@@ -153,8 +153,8 @@ class App extends Component {
           </li>
           <li>
             <span>Hosting URL:&nbsp;</span>
-            <a href="http://chrislane.info/REACT/React-routing-focus-top">
-              http://chrislane.info/REACT/React-routing-focus-top{" "}
+            <a href="http://chrislane.info/REACT/React-routing-focus-top-offscreen-text">
+              http://chrislane.info/REACT/React-routing-focus-top-offscreen-text{" "}
             </a>
           </li>
         </ul>
